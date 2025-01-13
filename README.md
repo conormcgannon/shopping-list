@@ -2,3 +2,6 @@
 - Eggs
 - Cheese
 - Greek Yogurt
+- Berries
+- Banana
+- Milk
